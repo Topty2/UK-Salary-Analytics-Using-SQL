@@ -1,9 +1,9 @@
-UK Salary Data Analysis — Python, SQL & Power BI
+                    👨🏻‍💻 UK Salary Data Analysis — Python, SQL & Power BI
 
 This repository contains a complete end-to-end data analytics project exploring a UK salary dataset using SQL, Python, and Power BI.
 The goal is to uncover salary patterns across the UK and build meaningful insights for decision-making.
 
-Project Overview
+                        📚Project Overview
 
 This project performs:
 
@@ -19,7 +19,7 @@ Business-level insights & recommendations
 
 The dataset includes attributes such as occupation, region, gender, age group, work pattern, annual pay, sector, and more.
 
-Tech Stack
+                                   🚀 Tech Stack
 Languages & Tools
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
